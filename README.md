@@ -15,7 +15,7 @@ This texture pack features redone HUD textures based off of Ridge Racer V's HUD 
 
 ## Compatiblity
 
-Supports `UCES00422` (Europe), `UCAS40119` (Asia) and `ULJS00080` (Japan) untested.
+Tested with `UCES00422` (Europe).<br>`UCAS40119` (Asia) and `ULJS00080` (Japan) are not tested and aren't guaranteed to work.
 
 ## Special thanks
-- Xenn for providing some Ridge Racer V assets (fonts, race countdown...)
+- Xenn for providing some Ridge Racer V assets (fonts, race countdown)
