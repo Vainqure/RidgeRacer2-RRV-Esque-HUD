@@ -9,9 +9,11 @@ This texture pack features redone HUD textures based off of Ridge Racer V's HUD 
 ## How to use
 
 - Download the pack through [here](https://github.com/dataDrawing/RidgeRacer2-RRV-Esque-HUD/archive/refs/heads/main.zip) (or go to Code > Download ZIP)
-- Rename the downloaded the .ZIP file to the region code of the game (see [Compatibility](https://github.com/dataDrawing/RidgeRacer2-RRV-Esque-HUD#compatiblity))
-  - For example: Rename `RidgeRacer2-RRV-Esque-HUD-main.zip` to `UCES00422.zip`
-- You can import the .ZIP file by opening PPSSPP and choose the .ZIP file like what you'd do when you choose a ROM file, but you can also import it manually
+- Extract the .ZIP file and rename the folder to the region code of the game (see [Compatibility](https://github.com/dataDrawing/RidgeRacer2-RRV-Esque-HUD#compatiblity))
+  - For example: Rename `RidgeRacer2-RRV-Esque-HUD-main` to `UCES00422`
+- Import the folder to PPSSPP's textures folder (`/PSP/TEXTURES`)
+  - You have to create the `TEXTURES` folder yourself if you don't have one
+  - You can also package all of the folder's content onto a .ZIP file, and choose it in PPSSPP just like how you'd choose a ROM file
 
 ## Compatiblity
 
